@@ -73,7 +73,7 @@ put = ""
 
 que = {}
 
-SMEX_USERS = [5046719296]
+SMEX_USERS = [5028658320]
 for x in SUDO_USERS: 
     SMEX_USERS.append(x)
     
@@ -833,7 +833,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("𝐆𝐀𝐀𝐍𝐃 𝐌𝐈𝐋 𝐆𝐘𝐀𝐀 𝐁𝐇𝐀𝐈𝐈 💋💦")
+                await event.edit("𝑵𝒐 𝑶𝒏𝒆 𝑰𝒔 𝑴𝒊𝒏𝒆 #Ƒąҟҽ Ƒɾìҽղժʂ 𝕁𝕆𝕀ℕ𝔼𝔻")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -877,7 +877,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(ImportChatInviteRequest(bc))
-                await event.edit("PRIVATE RAKHEGA BHENXHOD 👿")
+                await event.edit("𝑵𝒐 𝑶𝒏𝒆 𝑰𝒔 𝑴𝒊𝒏𝒆 #Ƒąҟҽ Ƒɾìҽղժʂ 𝕁𝕆𝕀ℕ𝔼𝔻")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -917,7 +917,7 @@ async def _(e):
         if len(e.text) == 7:
             bc = yukki[0]
             bc = int(bc)
-            text = "𝐉𝐀𝐀 𝐌𝐀𝐃𝐀𝐑𝐗𝐇𝐎𝐃 𝐗𝐇𝐎𝐑 𝐃𝐈𝐘𝐀💋"
+            text = "𝑵𝒐 𝑶𝒏𝒆 𝑰𝒔 𝑴𝒊𝒏𝒆 #Ƒąҟҽ Ƒɾìҽղժʂ �Leaving"
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(bc))
@@ -1373,7 +1373,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None)
         end = datetime.now()
         ms = (end - start).microseconds / 1000
-        await event.edit(f"𒅒𝐒𝐏𝐄𝐄𝐃!\n`{ms}` 𝗺𝘀\n 𒈒 𝐋𝐔𝐂𝐈𝐅𝐄𝐑 𝐒𝐏𝐀𝐌𝐁𝐎𝐓 𒈒")
+        await event.edit(f"𒅒𝐒𝐏𝐄𝐄𝐃!\n`{ms}` 𝗺𝘀\n 𒈒 𝑵𝒐 𝑶𝒏𝒆 𝑰𝒔 𝑴𝒊𝒏𝒆 #Ƒąҟҽ Ƒɾìҽղժʂ 𝐒𝐏𝐀𝐌𝐁𝐎𝐓 𒈒")
 
      
         
@@ -1483,7 +1483,7 @@ async def restart(e):
 
 async def help(e):
     if e.sender_id in SMEX_USERS:
-       text = " ✡⚔𝐋𝐔𝐂𝐈𝐅𝐄𝐑 𝐒𝐏𝐀𝐌𝐁𝐎𝐓✡⚔\n\n✘ 𝐔𝐓𝐈𝐋𝐒 ✘:\n.ping\n.restart\n\n✘ 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓 ✘:\n.bio\n.join\n.pjoin\n.pleave\n\n✘ 𝐒𝐏𝐀𝐌 ✘:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n\n\n[•𝐋𝐔𝐂𝐈𝐅𝐄𝐑•](https://t.me/GodLuciferOp)"
+       text = " ✡⚔𝑵𝒐 𝑶𝒏𝒆 𝑰𝒔 𝑴𝒊𝒏𝒆 #Ƒąҟҽ Ƒɾìҽղժʂ  𝐒𝐏𝐀𝐌𝐁𝐎𝐓✡⚔\n\n✘ 𝐔𝐓𝐈𝐋𝐒 ✘:\n.ping\n.restart\n\n✘ 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓 ✘:\n.bio\n.join\n.pjoin\n.pleave\n\n✘ 𝐒𝐏𝐀𝐌 ✘:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n\n\n[•𝐋𝐔𝐂𝐈𝐅𝐄𝐑•](https://t.me/GodLuciferOp)"
        await e.reply(text, parse_mode=None, link_preview=None )
 
         
@@ -1495,7 +1495,7 @@ CONGRATS🥳🥳🥳 YOUR FASTEST, SMOOTHEST AND POWERFUL LEGENDSPAMBOT DEPLOYED
 
 print(text)
 print("")
-print("YOᑌᖇ ᒪᑌᑕIᖴᗴᖇ Տᑭᗩᗰ ᗷOT ᗪᗴᑭᒪOY !!")
+print("YOᑌᖇ 𝑵𝒐 𝑶𝒏𝒆 𝑰𝒔 𝑴𝒊𝒏𝒆 #Ƒąҟҽ Ƒɾìҽղժʂ Տᑭᗩᗰ ᗷOT ᗪᗴᑭᒪOY !!")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
