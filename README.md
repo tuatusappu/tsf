@@ -1,7 +1,7 @@
 # ♕︎ 𝑵𝒐 𝑶𝒏𝒆 𝑰𝒔 𝑴𝒊𝒏𝒆 #Ƒąҟҽ Ƒɾìҽղժʂ 𝕾𝖕𝖆𝖒 𝕭𝖔𝖙 ʕ•ᴥ•ʔ ♕︎
 ## ☯︎ Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ ☯︎
 
-[![♡︎Dᴇᴘʟᴏʏ♡︎](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AmanjhaOp/No_One_Is_Mine_Spam_Bot.git)
+[![♡︎Dᴇᴘʟᴏʏ♡︎](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AmanjhaOp/No-One-Is-Mine-Spam-bot.git)
 
 -------
 
@@ -16,7 +16,7 @@
 
 
 ----
-## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
+## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 No-One-Is-Mine-Spam-bot
                           
 <a href="https://t.me/Team_Shield_X"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
